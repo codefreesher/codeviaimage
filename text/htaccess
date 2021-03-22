@@ -1,0 +1,27 @@
+#Đặt Pass cho thư mục
+
+resides
+
+AuthType basic
+
+AuthName "Thư mục này đã được bảo vệ"
+
+AuthUserFile ./pass/.htpasswd
+
+AuthGroupFile /dev/null
+
+Require valid-user
+
+# Đặt Pass cho file
+
+<files ./text/admin.txt>
+
+AuthType Basic
+
+AuthName "Prompt"
+
+AuthUserFile ./pass/.htpasswd
+
+Require valid-user
+
+</files>
